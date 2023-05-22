@@ -1,3 +1,4 @@
+<img align="center" src="https://media.tenor.com/MYZgsN2TDJAAAAAC/this-is.gif"/>
 <h1 align="center">Hi 👋, I'm Javier Medina Lovo</h1>
 <h3 align="center">A passionate Colombian-Italian frontend developer</h3>
 
